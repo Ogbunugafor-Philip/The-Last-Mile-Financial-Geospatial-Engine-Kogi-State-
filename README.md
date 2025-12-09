@@ -679,7 +679,10 @@ st.caption("Created by Philip Osita | State Cluster Manager | Sterling Bank Plc"
 ```
   streamlit run app.py --server.port 5010
 ```
- 
+ <img width="975" height="414" alt="image" src="https://github.com/user-attachments/assets/405ed16b-3dc1-46e8-92eb-0fda0a1ad20e" />
+
+<img width="975" height="530" alt="image" src="https://github.com/user-attachments/assets/2a00435d-a15f-4e11-8771-d9fcf8eb2db9" />
+
 
 #### Now, we are going to make our dashboard always running with out running the python command
 
