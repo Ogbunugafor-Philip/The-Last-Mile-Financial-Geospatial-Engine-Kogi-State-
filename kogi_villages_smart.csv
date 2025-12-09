@@ -1,0 +1,434 @@
+Name,Type,LGA,Population_Info,Priority_Tier,Latitude,Longitude
+Nagazi,town,Adavi,High (20k-50k),1,7.5981262,6.2317518
+Obangede,village,Adavi,Medium (2k-10k),2,7.5993259,6.2023227
+Osara,village,Adavi,Medium (2k-10k),2,7.6767208,6.416638
+Ogaminan,village,Adavi,Medium (2k-10k),2,7.594643,6.224761
+Adankolo,town,Adavi,High (20k-50k),1,7.8032,6.6963
+Zango-ndaji,town,Adavi,High (20k-50k),1,7.8123073,6.6392983
+Itakpe Junction,village,Adavi,Medium (2k-10k),2,7.6238,6.3009
+Unmapped Cluster (Adavi - 7.7016),village,Adavi,Medium (2k-10k),2,7.7016171,6.4423186
+Itakpe,village,Adavi,Medium (2k-10k),2,7.6350099,6.3313865
+Eika -Adagu,town,Adavi,High (20k-50k),1,7.614025,6.2737445
+Otite,town,Adavi,High (20k-50k),1,7.6055495,6.2572972
+Eika-Adagu New Layout,town,Adavi,High (20k-50k),1,7.610739,6.240689
+Uhuodo,town,Adavi,High (20k-50k),1,7.5920222,6.201636
+Ozuri,town,Adavi,High (20k-50k),1,7.583961,6.2160556
+Unmapped Cluster (Adavi - 7.7793),hamlet,Adavi,Low (<1k),2,7.77933236271548,6.661486576136597
+Unmapped Cluster (Adavi - 7.7950),hamlet,Adavi,Low (<1k),2,7.7950318932901075,6.643527869555665
+Unmapped Cluster (Adavi - 7.7582),hamlet,Adavi,Low (<1k),2,7.758277308254798,6.586060529719532
+Unmapped Cluster (Adavi - 7.7676),hamlet,Adavi,Low (<1k),2,7.767623492576748,6.590463859358614
+Unmapped Cluster (Adavi - 7.7864),hamlet,Adavi,Low (<1k),2,7.786434386540343,6.585941280332907
+Ilubusechi,village,Ajaokuta,Medium (2k-10k),2,7.531678,6.451766
+Ilashe,village,Ajaokuta,Medium (2k-10k),2,7.5019277,6.4992179
+Ogain,village,Ajaokuta,Medium (2k-10k),2,7.5238944,6.4635886
+Eganyi,village,Ajaokuta,Medium (2k-10k),2,7.5253091,6.4625254
+Idibo KM 18 Health Centre,hamlet,Ajaokuta,Low (<1k),3,7.489232,6.5780283
+Ajaokuta,village,Ajaokuta,Medium (2k-10k),2,7.4631568,6.6936392
+Unmapped Cluster (Ajaokuta - 7.5646),hamlet,Ajaokuta,Low (<1k),2,7.5646016,6.67048
+Unmapped Cluster (Ajaokuta - 7.5318),hamlet,Ajaokuta,Low (<1k),2,7.5318644,6.6656735
+Unmapped Cluster (Ajaokuta - 7.5405),hamlet,Ajaokuta,Low (<1k),2,7.5405276,6.6624696
+Unmapped Cluster (Ajaokuta - 7.5312),hamlet,Ajaokuta,Low (<1k),2,7.5312884,6.6602473
+Kuroko,village,Ajaokuta,Medium (2k-10k),2,7.656328,6.7304488
+Unmapped Cluster (Ajaokuta - 7.5678),hamlet,Ajaokuta,Low (<1k),2,7.5678773,6.6632917
+Ajaokuta,town,Ajaokuta,Confirmed: 16039,1,7.5639973,6.6291171
+Unmapped Cluster (Ajaokuta - 7.4372),hamlet,Ajaokuta,Low (<1k),2,7.4372385,6.6110551
+Unmapped Cluster (Ajaokuta - 7.4347),hamlet,Ajaokuta,Low (<1k),2,7.4347411,6.6103175
+Unmapped Cluster (Ajaokuta - 7.4316),hamlet,Ajaokuta,Low (<1k),2,7.4316931,6.597054
+Ohunene,village,Ajaokuta,Medium (2k-10k),2,7.466507447357148,6.665567713311721
+Unmapped Cluster (Ajaokuta - 7.5898),hamlet,Ajaokuta,Low (<1k),2,7.5898174916432355,6.6505173722542406
+Unmapped Cluster (Ajaokuta - 7.5868),hamlet,Ajaokuta,Low (<1k),2,7.586805075778322,6.646327714139332
+Unmapped Cluster (Ajaokuta - 7.5868),hamlet,Ajaokuta,Low (<1k),2,7.58681043823006,6.650650220764979
+Unmapped Cluster (Ajaokuta - 7.5927),hamlet,Ajaokuta,Low (<1k),2,7.592702232236926,6.652164922562374
+Unmapped Cluster (Ajaokuta - 7.5882),hamlet,Ajaokuta,Low (<1k),2,7.5882221227917865,6.6542676695603555
+Unmapped Cluster (Ajaokuta - 7.5950),hamlet,Ajaokuta,Low (<1k),2,7.595081647507714,6.649321511638488
+Unmapped Cluster (Ajaokuta - 7.5922),hamlet,Ajaokuta,Low (<1k),2,7.592224107895482,6.649169005728095
+Unmapped Cluster (Ajaokuta - 7.5949),hamlet,Ajaokuta,Low (<1k),2,7.5949668757775175,6.65056348728299
+Unmapped Cluster (Ajaokuta - 7.5911),hamlet,Ajaokuta,Low (<1k),2,7.591139468833822,6.602003400110616
+Unmapped Cluster (Ajaokuta - 7.5941),hamlet,Ajaokuta,Low (<1k),2,7.594166309239988,6.597573927632856
+Unmapped Cluster (Ajaokuta - 7.5668),hamlet,Ajaokuta,Low (<1k),2,7.56681254763297,6.55361076622481
+Unmapped Cluster (Ajaokuta - 7.6118),hamlet,Ajaokuta,Low (<1k),2,7.61187050364808,6.64271770588411
+Unmapped Cluster (Ajaokuta - 7.6494),hamlet,Ajaokuta,Low (<1k),2,7.649456985285326,6.69513981223276
+Unmapped Cluster (Ajaokuta - 7.6682),hamlet,Ajaokuta,Low (<1k),2,7.668218996881869,6.713832586210602
+Unmapped Cluster (Ajaokuta - 7.7767),hamlet,Ajaokuta,Low (<1k),2,7.776755857840756,6.69196654094543
+Unmapped Cluster (Ajaokuta - 7.7764),hamlet,Ajaokuta,Low (<1k),2,7.776442386185683,6.69123974345401
+Unmapped Cluster (Ajaokuta - 7.6333),hamlet,Ajaokuta,Low (<1k),2,7.633383132933151,6.6377054044347075
+Unmapped Cluster (Ajaokuta - 7.6421),hamlet,Ajaokuta,Low (<1k),2,7.642166088409794,6.644542510427268
+Unmapped Cluster (Ajaokuta - 7.6113),hamlet,Ajaokuta,Low (<1k),2,7.611310072615941,6.645769324153429
+Unmapped Cluster (Ajaokuta - 7.6322),hamlet,Ajaokuta,Low (<1k),2,7.632236850000001,6.6368315
+Unmapped Cluster (Ajaokuta - 7.6345),hamlet,Ajaokuta,Low (<1k),2,7.634531203500559,6.632923945481937
+Unmapped Cluster (Ajaokuta - 7.6136),hamlet,Ajaokuta,Low (<1k),2,7.61365387802912,6.646443565243814
+Unmapped Cluster (Ajaokuta - 7.6400),hamlet,Ajaokuta,Low (<1k),2,7.640039349999999,6.634097
+Unmapped Cluster (Ajaokuta - 7.6085),hamlet,Ajaokuta,Low (<1k),2,7.608541424655262,6.58078284487824
+Unmapped Cluster (Ajaokuta - 7.6552),hamlet,Ajaokuta,Low (<1k),2,7.655259968533139,6.701538928592346
+Unmapped Cluster (Ajaokuta - 7.3585),hamlet,Ajaokuta,Low (<1k),2,7.358565644268011,6.5081821898234296
+Unmapped Cluster (Ajaokuta - 7.7344),hamlet,Ajaokuta,Low (<1k),2,7.734480719039351,6.711887136475397
+Unmapped Cluster (Ajaokuta - 7.7362),village,Ajaokuta,Medium (2k-10k),2,7.736297755554937,6.712252614931793
+Unmapped Cluster (Ajaokuta - 7.4318),hamlet,Ajaokuta,Low (<1k),2,7.43188696787615,6.597025887381721
+Unmapped Cluster (Ajaokuta - 7.4372),hamlet,Ajaokuta,Low (<1k),2,7.43720627415652,6.610927076563466
+Unmapped Cluster (Ajaokuta - 7.4346),hamlet,Ajaokuta,Low (<1k),2,7.4346840886866525,6.610349820622908
+Unmapped Cluster (Ajaokuta - 7.6627),hamlet,Ajaokuta,Low (<1k),2,7.662755185994341,6.670337832319585
+Ukwodoko,village,Ankpa,Medium (2k-10k),2,7.405537,7.851797
+Inye,village,Ankpa,Medium (2k-10k),2,7.5168,7.6391
+Abache,village,Ankpa,Medium (2k-10k),2,7.3551,7.6407
+Gidan Aka,village,Ankpa,Medium (2k-10k),2,7.5634,7.6498
+Aka,village,Ankpa,Medium (2k-10k),2,7.3592,7.5422
+Oguaobono,village,Ankpa,Medium (2k-10k),2,7.5523675,7.6711205
+Ankpa,town,Ankpa,High (20k-50k),1,7.4063578,7.6280211
+Emabo,village,Ankpa,Medium (2k-10k),2,7.428906,7.729842
+Hoche,village,Ankpa,Medium (2k-10k),2,7.4743,7.7415
+Uboko,village,Ankpa,Medium (2k-10k),2,7.4146,7.7277
+Abakpa,village,Ankpa,Medium (2k-10k),2,7.348843,7.8084633
+Emere,village,Ankpa,Medium (2k-10k),2,7.4144,7.6516
+Okenyi,village,Ankpa,Medium (2k-10k),2,7.3113,7.7769
+Awulu,village,Ankpa,Medium (2k-10k),2,7.5753,7.6517
+Gbagede,village,Bassa,Medium (2k-10k),2,7.6994931,6.7784721
+Arugaga,hamlet,Bassa,Low (<1k),3,7.4824,6.8076
+Magu,hamlet,Bassa,Low (<1k),3,7.4833,6.7964
+Nyimoa,village,Bassa,Medium (2k-10k),2,7.866667,7.083333
+Nabure,hamlet,Bassa,Low (<1k),3,7.483333,6.783333
+Paperi,village,Bassa,Medium (2k-10k),2,7.8,7.05
+Kipi,village,Bassa,Medium (2k-10k),2,7.866667,7.133333
+Gboloko,village,Bassa,Medium (2k-10k),2,7.7291,6.8942
+Kpatakpoli,village,Bassa,Medium (2k-10k),2,7.7688066,6.7905893
+Emi Atsumbe,village,Bassa,Medium (2k-10k),2,7.7483225,6.9092779
+Icheu,village,Bassa,Medium (2k-10k),2,7.7066827,6.7717852
+Emikudamisi,hamlet,Bassa,Low (<1k),3,7.4907,6.7905
+Nyankpo,village,Bassa,Medium (2k-10k),2,7.7619298,6.923611
+Adam,village,Bassa,Medium (2k-10k),2,7.4597984,6.7757
+Gbaqede,village,Bassa,Medium (2k-10k),2,7.6989774,6.7773198
+Mozum,village,Bassa,Medium (2k-10k),2,7.8563118,6.9421616
+Iyede,village,Bassa,Medium (2k-10k),2,7.85,7.066667
+Emikudamisi,hamlet,Bassa,Low (<1k),3,7.484783,6.7777644
+Odenyi,village,Bassa,Medium (2k-10k),2,7.7888,7.0317
+Usuman,village,Bassa,Medium (2k-10k),2,7.866667,7.166667
+Akpelu,village,Bassa,Medium (2k-10k),2,7.7,7.083333
+Duru,village,Bassa,Medium (2k-10k),2,7.833333,7.05
+Kpato,village,Bassa,Medium (2k-10k),2,7.735615,6.797408
+Kpatakpali,village,Bassa,Medium (2k-10k),2,7.7687482,6.7905973
+Takete,village,Bassa,Medium (2k-10k),2,7.7121255,6.899528
+Oguma,village,Bassa,Medium (2k-10k),2,7.8981,7.0524
+Adana,hamlet,Bassa,Low (<1k),3,7.483,6.7695
+Iroko,hamlet,Bassa,Low (<1k),3,7.5710845,6.7123563
+Eroko,hamlet,Bassa,Low (<1k),3,7.5706676,6.7107469
+Usaman,village,Bassa,Medium (2k-10k),2,7.866667,7.166667
+Akpaku,village,Bassa,Medium (2k-10k),2,7.967353,7.254685
+Akpakudu,village,Bassa,Medium (2k-10k),2,7.967353,7.254685
+Amara,village,Bassa,Medium (2k-10k),2,8.0075,7.400833
+Beinto,village,Bassa,Medium (2k-10k),2,7.933333,7.15
+Binto,village,Bassa,Medium (2k-10k),2,7.933333,7.15
+Bishua,village,Bassa,Medium (2k-10k),2,7.9905917,7.3051199
+Inegu,hamlet,Bassa,Low (<1k),3,7.849713,7.158579
+Inequ,hamlet,Bassa,Low (<1k),3,7.849713,7.158579
+Jerkama,village,Bassa,Medium (2k-10k),2,7.916667,7.233333
+Kokuri,hamlet,Bassa,Low (<1k),3,7.943613,7.205705
+Kukuri,hamlet,Bassa,Low (<1k),3,7.943613,7.205705
+Kwiambana,hamlet,Bassa,Low (<1k),3,7.917179,7.302297
+Nyebu,village,Bassa,Medium (2k-10k),2,7.9974396,7.3184718
+Onyebu,village,Bassa,Medium (2k-10k),2,8.0211372,7.3171476
+Suli,hamlet,Bassa,Low (<1k),3,7.904192,7.157424
+Zarkama,village,Bassa,Medium (2k-10k),2,7.916667,7.233333
+Egbu,village,Bassa,Medium (2k-10k),2,7.601158574709014,6.7138169564902705
+Chita,village,Bassa,Medium (2k-10k),2,7.67887572318311,6.780961179441077
+Unmapped Cluster (Bassa - 7.7789),hamlet,Bassa,Low (<1k),2,7.778960704485898,6.895178092575552
+Dekina,village,Dekina,Medium (2k-10k),2,7.6887069,7.0333153
+Ochanja,village,Dekina,Medium (2k-10k),2,7.4472,7.2416
+Egume,town,Dekina,High (20k-50k),1,7.4731703,7.2489759
+Oje,village,Dekina,Medium (2k-10k),2,7.6617155,7.4026283
+Olaji,village,Dekina,Medium (2k-10k),2,7.366667,7.2
+Tuaniako,village,Dekina,Medium (2k-10k),2,7.466667,7.166667
+Ochadam,village,Dekina,Medium (2k-10k),2,7.4152,7.0103
+Oche,village,Dekina,Medium (2k-10k),2,7.6617155,7.4026283
+Kefi,village,Dekina,Medium (2k-10k),2,7.55,7.05
+Acharu,village,Dekina,Medium (2k-10k),2,7.5126831,7.3073488
+Mamerebo,village,Dekina,Medium (2k-10k),2,7.416667,7.0
+Aligi Ado,village,Dekina,Medium (2k-10k),2,7.383333,7.2
+Oghe,village,Dekina,Medium (2k-10k),2,7.6617155,7.4026283
+Ameka,village,Dekina,Medium (2k-10k),2,7.416667,7.3
+Lafia,village,Dekina,Medium (2k-10k),2,7.4264,7.3328
+Ayangba,town,Dekina,High (20k-50k),1,7.505557,7.1764306
+Egboje,village,Dekina,Medium (2k-10k),2,7.4905534,7.4138557
+Igbadim,village,Dekina,Medium (2k-10k),2,7.566667,7.05
+Elikah,village,Dekina,Medium (2k-10k),2,7.6107696,6.9759961
+Ibreda,village,Dekina,Medium (2k-10k),2,7.4773,6.9607
+Ajieru,village,Dekina,Medium (2k-10k),2,7.533333,7.066667
+Ayale,town,Dekina,High (20k-50k),1,7.6343971,7.319063
+Iyale,town,Dekina,High (20k-50k),1,7.6343971,7.319063
+Jeri,village,Dekina,Medium (2k-10k),2,7.638247,7.377764
+Yari,village,Dekina,Medium (2k-10k),2,7.638247,7.377764
+Adoloko,village,Dekina,Medium (2k-10k),2,7.656702,7.279409
+Ebeje,village,Dekina,Medium (2k-10k),2,7.7037496,7.142976
+Ebeji,village,Dekina,Medium (2k-10k),2,7.7037496,7.142976
+Elubi,hamlet,Dekina,Low (<1k),3,7.581695,7.407249
+Etutekpe,village,Dekina,Medium (2k-10k),2,7.7193585,7.2816215
+Etutekpo,village,Dekina,Medium (2k-10k),2,7.7193585,7.2816215
+Ilainya,village,Dekina,Medium (2k-10k),2,7.74507,7.288673
+Ilainyo,village,Dekina,Medium (2k-10k),2,7.74507,7.288673
+Ilajyno,village,Dekina,Medium (2k-10k),2,7.74507,7.288673
+Itama,village,Dekina,Medium (2k-10k),2,7.564523,7.363766
+Loko,village,Dekina,Medium (2k-10k),2,7.671806,7.28259
+Odu Ologba,village,Dekina,Medium (2k-10k),2,7.6280398,7.128871
+Odu,village,Dekina,Medium (2k-10k),2,7.6280398,7.128871
+Ofanwa,hamlet,Dekina,Low (<1k),3,7.54381,7.42566
+Ofonwa,hamlet,Dekina,Low (<1k),3,7.54381,7.42566
+Ogbagbo,village,Dekina,Medium (2k-10k),2,7.5345259,7.3366247
+Ogbogbo,village,Dekina,Medium (2k-10k),2,7.5345259,7.3366247
+Ogbogido,village,Dekina,Medium (2k-10k),2,7.5345259,7.3366247
+Ogbogodo,village,Dekina,Medium (2k-10k),2,7.5345259,7.3366247
+Ogume,town,Dekina,High (20k-50k),1,7.4731703,7.2489759
+Okpakeri,hamlet,Dekina,Low (<1k),3,7.653251,7.164218
+Okpakiri,hamlet,Dekina,Low (<1k),3,7.653251,7.164218
+Ola Ogba,village,Dekina,Medium (2k-10k),2,7.618529,7.22932
+Ola,hamlet,Dekina,Low (<1k),3,7.569139,7.442134
+Olah,hamlet,Dekina,Low (<1k),3,7.569139,7.442134
+Olo,hamlet,Dekina,Low (<1k),3,7.569139,7.442134
+Ologba,village,Dekina,Medium (2k-10k),2,7.618529,7.22932
+Onukpo,village,Dekina,Medium (2k-10k),2,7.634691,7.269938
+Agojeju,village,Dekina,Medium (2k-10k),2,7.706717,7.419267
+Aloko,village,Dekina,Medium (2k-10k),2,7.8005996,7.3205335
+Egudi,village,Dekina,Medium (2k-10k),2,7.8006261,7.3203457
+Okura,village,Dekina,Medium (2k-10k),2,7.4298999,7.3834406
+Unmapped Cluster (Dekina - 7.4159),town,Dekina,High (20k-50k),2,7.4159526,6.952117
+Adaigba,village,Ibaji,Medium (2k-10k),2,6.6702475,6.6518883
+Nwajala,village,Ibaji,Medium (2k-10k),2,6.9138499,6.8028784
+Utoduma,village,Ibaji,Medium (2k-10k),2,6.933333,6.683333
+Ejule,village,Ibaji,Medium (2k-10k),2,6.95,6.833333
+Onyadega,town,Ibaji,High (20k-50k),1,6.8804924,6.6763689
+Odeke,village,Ibaji,Medium (2k-10k),2,6.708048,6.799191
+Irahun,village,Ibaji,Medium (2k-10k),2,6.813524,6.661444
+Ifeku Island,village,Ibaji,Medium (2k-10k),2,6.7846406799241405,6.606267780275298
+Idah,town,Idah,High (20k-50k),1,7.1099854,6.7340488
+Ugwaka,village,Igalamela-Odolu,Medium (2k-10k),2,6.946,7.2386
+Obedamagu,village,Igalamela-Odolu,Medium (2k-10k),2,7.166667,7.016667
+Obolimi,village,Igalamela-Odolu,Medium (2k-10k),2,7.083333,7.2
+Odolu,town,Igalamela-Odolu,High (20k-50k),1,6.9766085,7.162683
+Akpanya,village,Igalamela-Odolu,Medium (2k-10k),2,7.015,7.2981
+Ogbogbo,town,Igalamela-Odolu,High (20k-50k),1,7.1070879,6.8139181
+Ajaka,village,Igalamela-Odolu,Medium (2k-10k),2,7.1711,6.8265
+Okokete,village,Igalamela-Odolu,Medium (2k-10k),2,7.1,7.066667
+Akinia,village,Igalamela-Odolu,Medium (2k-10k),2,7.033333,7.283333
+Akpopo,village,Igalamela-Odolu,Medium (2k-10k),2,7.216667,7.1
+Akopo,village,Igalamela-Odolu,Medium (2k-10k),2,7.066667,7.066667
+Oforachi,village,Igalamela-Odolu,Medium (2k-10k),2,7.0927,6.8742
+Ajitata,village,Igalamela-Odolu,Medium (2k-10k),2,7.033333,7.05
+Ojigagala,village,Igalamela-Odolu,Medium (2k-10k),2,7.0424,6.7372
+Afagba,village,Igalamela-Odolu,Medium (2k-10k),2,7.033333,7.116667
+Alokura,village,Igalamela-Odolu,Medium (2k-10k),2,7.233333,7.15
+Ibochi,village,Igalamela-Odolu,Medium (2k-10k),2,7.116667,7.216667
+Egabada,village,Igalamela-Odolu,Medium (2k-10k),2,7.0435898,7.0181099
+Ogbonicha,village,Igalamela-Odolu,Medium (2k-10k),2,7.15,7.266667
+Agagba,hamlet,Igalamela-Odolu,Low (<1k),3,7.249065,6.7866224
+Alode,village,Igalamela-Odolu,Medium (2k-10k),2,7.116667,7.066667
+Ugbobo,village,Igalamela-Odolu,Medium (2k-10k),2,7.083333,7.333333
+Odokoro,village,Ijumu,Medium (2k-10k),2,7.9452945,5.997953
+Iyara,village,Ijumu,Medium (2k-10k),2,7.8429885,5.9739825
+Ekinrin,village,Ijumu,Medium (2k-10k),2,7.8319125,5.8663525
+Kakuma,village,Ijumu,Medium (2k-10k),2,7.5831,6.0057
+Igbagun,village,Ijumu,Medium (2k-10k),2,7.8237125,5.742477
+Aiye,village,Ijumu,Medium (2k-10k),2,7.7834465,5.8025965
+Aiyedero,village,Ijumu,Medium (2k-10k),2,8.116667,6.0
+Ayere,village,Ijumu,Medium (2k-10k),2,7.7040235,5.971699
+Ogale,village,Ijumu,Medium (2k-10k),2,7.6643,6.1063
+Aiyetoro Gbede,village,Ijumu,Medium (2k-10k),2,7.9823,5.9932
+Egbedi,village,Ijumu,Medium (2k-10k),2,7.696312,5.9769875
+Agbado,village,Kabba/Bunu,Medium (2k-10k),2,7.9185,6.2681
+Junyura,village,Kabba/Bunu,Medium (2k-10k),2,8.378094,6.2714104
+Shado,village,Kabba/Bunu,Medium (2k-10k),2,8.3,6.283333
+Eluke,village,Kabba/Bunu,Medium (2k-10k),2,8.15,6.1
+Akutukpa,village,Kabba/Bunu,Medium (2k-10k),2,8.2850105,6.2598435
+Akitikpa,village,Kabba/Bunu,Medium (2k-10k),2,8.2815069,6.262354
+Oduape,village,Kabba/Bunu,Medium (2k-10k),2,7.8965,6.2057
+Idoyi,village,Kabba/Bunu,Medium (2k-10k),2,8.066667,6.066667
+Gero,village,Kabba/Bunu,Medium (2k-10k),2,8.25,6.25
+Ike,village,Kabba/Bunu,Medium (2k-10k),2,8.3418723,6.2770092
+Gbeleko,village,Kabba/Bunu,Medium (2k-10k),2,7.7592,6.113
+Kabba,village,Kabba/Bunu,Medium (2k-10k),2,7.8287285,6.0731
+Taki,village,Kabba/Bunu,Medium (2k-10k),2,8.3287812,6.1111875
+Guguriji,hamlet,Kabba/Bunu,Low (<1k),3,8.3896628,6.1565521
+Akitipa,village,Kabba/Bunu,Medium (2k-10k),2,8.2822288,6.2624398
+Ofere,village,Kabba/Bunu,Medium (2k-10k),2,8.183333,6.15
+Orei,village,Kogi,Medium (2k-10k),2,8.216667,6.8
+Aciol,village,Kogi,Medium (2k-10k),2,8.2,6.8
+Agidi,village,Kogi,Medium (2k-10k),2,8.2000007,6.8000161
+Arugaga,village,Kogi,Medium (2k-10k),2,7.9834897,6.7996459
+Uhyana,village,Kogi,Medium (2k-10k),2,8.183333,6.8
+Zagana,village,Kogi,Medium (2k-10k),2,7.9343435,6.9568208
+Ozahi,village,Kogi,Medium (2k-10k),2,8.166667,6.75
+Akpasi,village,Kogi,Medium (2k-10k),2,8.2499293,6.833056
+Rakpaku,village,Kogi,Medium (2k-10k),2,8.166667,6.766667
+Gegu,village,Kogi,Medium (2k-10k),2,8.2475762,6.825055
+Yashiyali,village,Kogi,Medium (2k-10k),2,7.9542325,6.7936555
+Koton Karifi,village,Kogi,Medium (2k-10k),2,8.0977057,6.7974895
+Gbanyada,village,Kogi,Medium (2k-10k),2,7.9699947,6.9185894
+Adanouy,village,Kogi,Medium (2k-10k),2,7.8928318,6.8577598
+Oji,village,Kogi,Medium (2k-10k),2,8.15,6.783333
+Bogboru,village,Kogi,Medium (2k-10k),2,8.2,6.75
+Zokoja,village,Lokoja,Medium (2k-10k),2,7.802359,6.7430045
+Filele,village,Lokoja,Medium (2k-10k),2,7.8518,6.7241
+Lanza,hamlet,Lokoja,Low (<1k),3,8.565724,6.2213731
+Eki,hamlet,Lokoja,Low (<1k),3,8.6268262,6.2775483
+Agbaja,village,Lokoja,Medium (2k-10k),2,7.9892489,6.6416941
+Budon,village,Lokoja,Medium (2k-10k),2,8.3405727,6.5335476
+Ahuji,village,Lokoja,Medium (2k-10k),2,8.5636325,6.2456126
+Kukaragi,hamlet,Lokoja,Low (<1k),3,8.6862072,6.2987019
+Yanemi,village,Lokoja,Medium (2k-10k),2,7.9866945,6.7484075
+Felelen Buzu,village,Lokoja,Medium (2k-10k),2,7.8517957,6.7241235
+Agodo,village,Lokoja,Medium (2k-10k),2,8.1482237,6.6974921
+Yekaraji,hamlet,Lokoja,Low (<1k),3,8.6039274,6.2816628
+Adana,village,Lokoja,Medium (2k-10k),2,7.9833224,6.7666764
+Numai,village,Lokoja,Medium (2k-10k),2,7.816667,6.766667
+Bagi,village,Lokoja,Medium (2k-10k),2,8.5359202,6.2372257
+Emu,village,Lokoja,Medium (2k-10k),2,7.9755,6.6139
+Kapu,village,Lokoja,Medium (2k-10k),2,8.6433673,6.3022316
+Ebo,village,Lokoja,Medium (2k-10k),2,8.5998959,6.3309427
+Eggan,town,Lokoja,High (20k-50k),1,8.7081154,6.2990327
+Denbor,village,Lokoja,Medium (2k-10k),2,8.5309671,6.4210404
+Lokoja,town,Lokoja,Confirmed: 90000,1,7.802355,6.7430327
+Jamata,village,Lokoja,Medium (2k-10k),2,8.0646722,6.7654539
+Gwachi,village,Lokoja,Medium (2k-10k),2,8.4872251,6.2309964
+Losuta,hamlet,Lokoja,Low (<1k),3,8.4629225,6.3518532
+Ageni,village,Lokoja,Medium (2k-10k),2,8.6122358,6.3252566
+Gunji Twaki,village,Lokoja,Medium (2k-10k),2,8.7037331,6.3207654
+Sunawa,town,Lokoja,High (20k-50k),1,8.4138311,6.4325968
+Gogoro,village,Lokoja,Medium (2k-10k),2,8.0713917,6.7660064
+Batake,village,Lokoja,Medium (2k-10k),2,8.4573064,6.366834
+Unmapped Cluster (Lokoja - 8.3178),hamlet,Lokoja,Low (<1k),2,8.3178646,6.4988943
+Unmapped Cluster (Lokoja - 8.5844),hamlet,Lokoja,Low (<1k),2,8.584424,6.2916023
+Unmapped Cluster (Lokoja - 8.5796),village,Lokoja,Medium (2k-10k),2,8.5796094,6.2959901
+Mami,village,Lokoja,Medium (2k-10k),2,8.4905182,6.3264522
+Unmapped Cluster (Lokoja - 8.5499),hamlet,Lokoja,Low (<1k),2,8.549947,6.2655553
+Unmapped Cluster (Lokoja - 8.5496),village,Lokoja,Medium (2k-10k),2,8.5496911,6.2615253
+Unmapped Cluster (Lokoja - 8.5291),village,Lokoja,Medium (2k-10k),2,8.529161,6.2918081
+Unmapped Cluster (Lokoja - 8.5181),village,Lokoja,Medium (2k-10k),2,8.518111,6.3003573
+Unmapped Cluster (Lokoja - 8.5021),hamlet,Lokoja,Low (<1k),2,8.5021796,6.3143641
+Unmapped Cluster (Lokoja - 8.6411),hamlet,Lokoja,Low (<1k),2,8.6411022,6.2641959
+Unmapped Cluster (Lokoja - 8.4427),hamlet,Lokoja,Low (<1k),2,8.4427685,6.3872991
+Unmapped Cluster (Lokoja - 8.3373),hamlet,Lokoja,Low (<1k),2,8.3373485,6.5258731
+Unmapped Cluster (Lokoja - 8.3363),hamlet,Lokoja,Low (<1k),2,8.3363173,6.5211535
+Unmapped Cluster (Lokoja - 8.3355),hamlet,Lokoja,Low (<1k),2,8.3355109,6.5483733
+Unmapped Cluster (Lokoja - 8.3312),hamlet,Lokoja,Low (<1k),2,8.3312089,6.5472092
+Unmapped Cluster (Lokoja - 8.3276),hamlet,Lokoja,Low (<1k),2,8.3276104,6.5455999
+Unmapped Cluster (Lokoja - 8.3216),village,Lokoja,Medium (2k-10k),2,8.3216454,6.5191734
+Unmapped Cluster (Lokoja - 8.3275),hamlet,Lokoja,Low (<1k),2,8.3275956,6.5143079
+Unmapped Cluster (Lokoja - 8.3150),hamlet,Lokoja,Low (<1k),2,8.3150674,6.4953944
+Unmapped Cluster (Lokoja - 8.3147),hamlet,Lokoja,Low (<1k),2,8.3147726,6.4940034
+Unmapped Cluster (Lokoja - 8.3150),hamlet,Lokoja,Low (<1k),2,8.315016,6.49182
+Unmapped Cluster (Lokoja - 8.3137),hamlet,Lokoja,Low (<1k),2,8.3137956,6.492237
+Unmapped Cluster (Lokoja - 8.3098),hamlet,Lokoja,Low (<1k),2,8.3098805,6.4941781
+Unmapped Cluster (Lokoja - 8.3134),hamlet,Lokoja,Low (<1k),2,8.3134886,6.4938509
+Unmapped Cluster (Lokoja - 8.3273),hamlet,Lokoja,Low (<1k),2,8.3273355,6.4790797
+Unmapped Cluster (Lokoja - 8.3218),hamlet,Lokoja,Low (<1k),2,8.3218869,6.4774919
+Unmapped Cluster (Lokoja - 8.3175),village,Lokoja,Medium (2k-10k),2,8.3175318,6.4939445
+Unmapped Cluster (Lokoja - 8.3199),hamlet,Lokoja,Low (<1k),2,8.3199469,6.5147397
+Unmapped Cluster (Lokoja - 8.6859),hamlet,Lokoja,Low (<1k),2,8.685970296184902,6.298273810303527
+Unmapped Cluster (Lokoja - 8.6434),village,Lokoja,Medium (2k-10k),2,8.643472559421065,6.301325815677987
+Amuro,village,Mopa-Muro,Medium (2k-10k),2,8.166667,5.9
+Takete Ide,village,Mopa-Muro,Medium (2k-10k),2,8.166667,6.033333
+Orokere,village,Mopa-Muro,Medium (2k-10k),2,8.166667,5.95
+Ijagbe,village,Mopa-Muro,Medium (2k-10k),2,8.183333,5.883333
+Takete,village,Mopa-Muro,Medium (2k-10k),2,8.15,5.783333
+Ijowa,village,Mopa-Muro,Medium (2k-10k),2,8.233333,5.85
+Mopa,village,Mopa-Muro,Medium (2k-10k),2,8.1,5.9
+Ilai,village,Mopa-Muro,Medium (2k-10k),2,8.016667,5.833333
+Ofokopi,village,Ofu,Medium (2k-10k),2,7.2785,6.973673
+Chikoro,village,Ofu,Medium (2k-10k),2,7.333333,7.233333
+Ejikulu,village,Ofu,Medium (2k-10k),2,7.25,7.15
+Agojeju,village,Ofu,Medium (2k-10k),2,7.311,7.1195
+Ogwonichi,village,Ofu,Medium (2k-10k),2,7.233333,7.316667
+Ugwolawo,town,Ofu,High (20k-50k),1,7.2334803,6.9208123
+Alloma,village,Ofu,Medium (2k-10k),2,7.3189,7.2323
+Ejule,town,Ofu,High (20k-50k),1,7.3588,7.0994
+Egbola,village,Ofu,Medium (2k-10k),2,7.3096,6.7813
+Akunuba,hamlet,Ofu,Low (<1k),3,7.3624258,6.7906413
+Okpo,village,Ofu,Medium (2k-10k),2,7.2806894,6.7338691
+Adoma,village,Ofu,Medium (2k-10k),2,7.4284,6.8102
+Egomicha,village,Ofu,Medium (2k-10k),2,7.435987,6.801504
+Ayanka,village,Ofu,Medium (2k-10k),2,7.4336365,6.7521991
+Bugobi,village,Ofu,Medium (2k-10k),2,7.3,7.283333
+Alo,village,Ofu,Medium (2k-10k),2,7.4177618,6.7371192
+Efaku,village,Ofu,Medium (2k-10k),2,7.3,7.133333
+Itobe,village,Ofu,Medium (2k-10k),2,7.4224219,6.7244854
+Unmapped Cluster (Ofu - 7.4102),village,Ofu,Medium (2k-10k),2,7.4102122,6.94814
+Itobe,village,Ofu,Medium (2k-10k),2,7.421640345877788,6.725682302776138
+Unmapped Cluster (Ofu - 7.4468),hamlet,Ofu,Low (<1k),2,7.446850936651772,6.74515155484444
+Unmapped Cluster (Ofu - 7.4507),hamlet,Ofu,Low (<1k),2,7.450736196673569,6.751023572722896
+Ogori,village,Ogori/Magongo,Medium (2k-10k),2,7.4587883,6.1876041
+Magongo,village,Ogori/Magongo,Medium (2k-10k),2,7.4742,6.1555
+Osungwe,village,Okehi,Medium (2k-10k),2,7.631,6.2124
+Okaito,village,Okehi,Medium (2k-10k),2,7.6284,6.1981
+Ohakite,village,Okehi,Medium (2k-10k),2,7.6951,6.1416
+Abobo,town,Okehi,High (20k-50k),1,7.6367392,6.3291482
+Camp 2,village,Okehi,Medium (2k-10k),2,7.6193953,6.2782184
+Usunwe,village,Okehi,Medium (2k-10k),2,7.6307949,6.2105946
+Ebiya,village,Okene,Medium (2k-10k),2,7.5251316,6.4113949
+Edipe Eke,village,Olamaboro,Medium (2k-10k),2,7.126303,7.568902
+Efafo,village,Olamaboro,Medium (2k-10k),2,7.1961,7.7047
+Ete Nawo,village,Olamaboro,Medium (2k-10k),2,7.083333,7.383333
+Alimi,village,Olamaboro,Medium (2k-10k),2,7.183333,7.333333
+Afo Owebe,village,Olamaboro,Medium (2k-10k),2,7.216667,7.75
+Adum Afo,village,Olamaboro,Medium (2k-10k),2,7.183333,7.416667
+Otu,village,Olamaboro,Medium (2k-10k),2,7.0237425,7.598695
+Imane,village,Olamaboro,Medium (2k-10k),2,7.2741085,7.694538
+Eke,village,Olamaboro,Medium (2k-10k),2,7.166667,7.483333
+Ungwa,village,Olamaboro,Medium (2k-10k),2,7.2275,7.6347
+Ogbe,village,Olamaboro,Medium (2k-10k),2,7.2314,7.5101
+Opu,village,Olamaboro,Medium (2k-10k),2,7.219026,7.5226915
+Amapa,village,Olamaboro,Medium (2k-10k),2,7.233333,7.383333
+Iole,village,Omala,Medium (2k-10k),2,7.9504776,7.5593857
+Ado,village,Omala,Medium (2k-10k),2,7.802282,7.6482445
+Abajikolo,town,Omala,High (20k-50k),1,7.868077,7.509072
+Abajukolo,town,Omala,High (20k-50k),1,7.868077,7.509072
+Abejukolo,town,Omala,High (20k-50k),1,7.868077,7.509072
+Ajibu,village,Omala,Medium (2k-10k),2,7.850443,7.517682
+Andomaja,hamlet,Omala,Low (<1k),3,7.750013,7.545957
+Laffa,hamlet,Omala,Low (<1k),3,7.9311402,7.5199405
+Lafo,hamlet,Omala,Low (<1k),3,7.9311402,7.5199405
+Ogbomaha,village,Omala,Medium (2k-10k),2,7.807323,7.452199
+Ogbonaha,village,Omala,Medium (2k-10k),2,7.807323,7.452199
+Ogbonoha,village,Omala,Medium (2k-10k),2,7.807323,7.452199
+Ogbonoma,village,Omala,Medium (2k-10k),2,7.807323,7.452199
+Opanda,hamlet,Omala,Low (<1k),3,7.826441,7.465262
+Opandha,hamlet,Omala,Low (<1k),3,7.826441,7.465262
+Ogodu,town,Omala,High (20k-50k),1,7.598442,7.478062
+Agbada,village,Omala,Medium (2k-10k),2,7.807708,7.427694
+Akbacha,hamlet,Omala,Low (<1k),3,7.70914,7.547545
+Akpacha,hamlet,Omala,Low (<1k),3,7.70914,7.547545
+Akwacha,hamlet,Omala,Low (<1k),3,7.70914,7.547545
+Alokuja,village,Omala,Medium (2k-10k),2,7.6216751,7.4972461
+Alokuya,village,Omala,Medium (2k-10k),2,7.6216751,7.4972461
+Amagede,village,Omala,Medium (2k-10k),2,8.0025,7.546111
+Bagana,village,Omala,Medium (2k-10k),2,8.0276916,7.5967275
+Bakumi,hamlet,Omala,Low (<1k),3,7.9018571,7.5139044
+Braidu,village,Omala,Medium (2k-10k),2,7.904898,7.422952
+Bugana,village,Omala,Medium (2k-10k),2,8.0276916,7.5967275
+Bukami,hamlet,Omala,Low (<1k),3,7.9018571,7.5139044
+Egim,village,Omala,Medium (2k-10k),2,8.021389,7.488611
+Igodo,hamlet,Omala,Low (<1k),3,7.622668,7.4816673
+Iyadi,village,Omala,Medium (2k-10k),2,7.938095,7.412845
+Iyeddi,village,Omala,Medium (2k-10k),2,7.938095,7.412845
+Iyedi,village,Omala,Medium (2k-10k),2,7.938095,7.412845
+Jato,village,Omala,Medium (2k-10k),2,7.915732,7.429316
+Liyadi,village,Omala,Medium (2k-10k),2,7.938095,7.412845
+Maiagu,village,Omala,Medium (2k-10k),2,8.001667,7.478889
+Maiogu,village,Omala,Medium (2k-10k),2,8.001667,7.478889
+Nupe,hamlet,Omala,Low (<1k),3,7.920134,7.460798
+Odagba,village,Omala,Medium (2k-10k),2,7.9893,7.523675
+Odagbo,village,Omala,Medium (2k-10k),2,7.9893,7.523675
+Ohaifo,village,Omala,Medium (2k-10k),2,7.97167,7.516277
+Ohaifor,village,Omala,Medium (2k-10k),2,7.97167,7.516277
+Isanlu Makutu,village,Yagba East,Medium (2k-10k),2,8.266667,5.8
+Odosin,village,Yagba East,Medium (2k-10k),2,8.333333,5.7
+Ejuku,village,Yagba East,Medium (2k-10k),2,8.05,5.75
+Jege,village,Yagba East,Medium (2k-10k),2,8.0550713,5.7067501
+Ilafin,village,Yagba East,Medium (2k-10k),2,8.333333,5.8
+Ogga,village,Yagba East,Medium (2k-10k),2,8.183333,5.65
+Isanlu Esa,village,Yagba West,Medium (2k-10k),2,8.4825343,5.4839619
+Ofi,village,Yagba West,Medium (2k-10k),2,8.45,5.633333
+Okoloki,village,Yagba West,Medium (2k-10k),2,8.4321526,5.4626214
+Egbe,town,Yagba West,High (20k-50k),1,8.216771,5.508671
+Oke-Eri,village,Yagba West,Medium (2k-10k),2,8.2043324,5.563766
+Okoloke,village,Yagba West,Medium (2k-10k),2,8.4320507,5.4626205
+Sanlu,village,Yagba West,Medium (2k-10k),2,8.4822929,5.4839833
+Eri,village,Yagba West,Medium (2k-10k),2,8.2499986,5.5499974
+Ahun,village,Yagba West,Medium (2k-10k),2,8.333333,5.333333
+Okunron,village,Yagba West,Medium (2k-10k),2,8.283333,5.45
+Odo Ere,village,Yagba West,Medium (2k-10k),2,8.2499986,5.5499974
